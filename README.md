@@ -12,6 +12,7 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
 
 
 #  Socials
+<div align="center">
 <p align="left">
   <a href="www.linkedin.com/in/tarung1510">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,7 +24,7 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a> -->
 </p>
----
+</div>
 
 #  LeetCode Progress
 
