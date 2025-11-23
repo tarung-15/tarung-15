@@ -1,18 +1,13 @@
 
-#  Hey!, I'm Tarun G
+
+# Hey!, I'm Tarun G
 A Full-Stack Developer focused on backend engineering and scalable system architecture, passionate about solving real-world problems through impactful software.  
 I build reliable, efficient, and production-ready applications using clean code principles and strong engineering practices.  
 Adaptable and quick to learn, I’m also expanding into AI/ML technologies to stay aligned with the future of intelligent systems.
 
-
-##  About Me
-
-
----
-
 #  Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,js,react,nodejs,express,django,mysql,mongodb,git,github,vercel,render," />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,js,react,nodejs,express,django,mysql,mongodb,git,github,vercel,render" />
 </div>
 
 #  Socials
