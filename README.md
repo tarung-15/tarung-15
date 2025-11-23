@@ -68,5 +68,36 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
 
 </div>
 
+
+
+### 🧩 LeetCode Badges
+
+<div align="center">
+
+<!-- Auto-updating LeetCode Stats Card -->
+<img 
+  src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&ext=heatmap&radius=10" 
+  width="70%" 
+/>
+
+<br/><br/>
+
+## Annual Badges
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="90"/>
+      <br/>100 Days Badge
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="90"/>
+      <br/>50 Days Badge
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <p align="center">✨ Thanks for visiting! ✨</p>
 
