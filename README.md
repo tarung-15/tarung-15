@@ -11,7 +11,7 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
 </div>
 
 
-##  Socials
+## Socials
 <div align="center">
 <p align="left">
   <a href="www.linkedin.com/in/tarung1510">
@@ -25,6 +25,7 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
   </a> -->
 </p>
 </div>
+
 ## Leetcode Badges 
 
 <div align="center">
