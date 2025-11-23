@@ -14,10 +14,11 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,react,nodejs,express,django,mysql,mongodb,git,github,vercel" />
 
-<!-- Render Icon (Custom SVG) -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Render_(service)_logo.svg/512px-Render_(service)_logo.svg.png" width="48" />
+<!-- Render Icon (Matching size & style) -->
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/render.svg" width="48" />
 
 </div>
+
 
 #  Socials
 <p align="left">
