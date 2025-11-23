@@ -5,18 +5,9 @@ A Full-Stack Developer focused on backend engineering and scalable system archit
 I build reliable, efficient, and production-ready applications using clean code principles and strong engineering practices.  
 Adaptable and quick to learn, I’m also expanding into AI/ML technologies to stay aligned with the future of intelligent systems.
 
-#  Tech Stack
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,react,nodejs,express,django,mysql,mongodb,git,github,vercel,render" />
-</div>
 # Tech Stack
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,react,nodejs,express,django,mysql,mongodb,git,github,vercel" />
-
-<!-- Render Icon (Matching size & style) -->
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/render.svg" width="48" />
-
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,react,nodejs,npm,express,django,sqlite,mysql,mongodb,git,github,vercel,anaconda,bash" />
 </div>
 
 
@@ -68,6 +59,9 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
 </div>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ansh292004/Ansh292004/main/assets/coding.gif" width="350"/>
+</p>
 
 
 <p align="center">✨ Thanks for visiting! ✨</p>
