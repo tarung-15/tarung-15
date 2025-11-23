@@ -26,56 +26,47 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
 </p>
 </div>
 
-#  LeetCode Progress
+### 🧩 LeetCode Badges
 
 <div align="center">
 
-<!--  Auto-updating LeetCode Stats Card -->
-<!-- <img 
-  src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&ext=heatmap&border=0&radius=10&font=JetBrains%20Mono" 
+<div style="
+  border: 1px solid #3d3d3d;
+  border-radius: 12px;
+  padding: 20px;
+  width: 80%;
+">
+
+<h3 style="margin-top: 0;">Tarun__15 LeetCode Badges</h3>
+
+<hr/>
+
+<!-- Auto-updating stats card -->
+<img 
+  src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&ext=heatmap&radius=10" 
   width="70%" 
 />
 
-<br/><br/> -->
+<br/><br/>
 
-<!--  Static Badge Section (Add new badges here manually in future) -->
-# 🧩 LeetCode Progress
-
-<div align="center">
-
-<!-- Auto-updating stats card -->
-<img src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&ext=heatmap&border=0&radius=10&font=JetBrains%20Mono" width="70%" />
-
-<!-- Static badge area (add more badges manually when you earn them) -->
+<!-- Badges -->
+<h4>Annual Badges</h4>
 <table>
   <tr>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="90"/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="80"/>
+      <br/>100 Days Badge
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="90"/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="80"/>
+      <br/>50 Days Badge
     </td>
-  </tr>
-  <tr>
-    <td align="center">50 Days Badge</td>
-    <td align="center">100 Days Badge</td>
   </tr>
 </table>
 
 </div>
 
-
-
-<!-- <td align="center">
-  <img src="LEETCODE_BADGE_URL" width="90"/>
-</td> -->
 </div>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ansh292004/Ansh292004/main/assets/coding.gif" width="350"/>
-</p>
-
 
 <p align="center">✨ Thanks for visiting! ✨</p>
 
