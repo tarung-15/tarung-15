@@ -1,17 +1,17 @@
 <!-- HEADER BANNER -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/shreyamp01/shreyamp01/main/github-header-image.png" width="100%" />
-</p>
+</p> -->
 
-# 👨‍💻 Hey!, I'm Tarun Gupta
+# 👨‍💻 Hey!, I'm Tarun G
 
 ---
 
 ## 🐥 About Me
 
-- 🎓 I'm currently pursuing **Computer Science Engineering**
+- 🎓 I'm currently pursuing **Computer Science Engineering(Data Science)**
 - 🤝 I’m looking to collaborate on **Web Development & MERN Projects**
-- 🚀 Currently learning **Backend Engineering, DevOps & Cloud**
+- 🚀 Currently learning **Backend Engineering,Cloud**
 - 💬 Ask me about **DSA, Web Dev, JavaScript, Node.js**
 - 🌱 I enjoy building **full-stack scalable applications**
 
