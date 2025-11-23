@@ -55,6 +55,19 @@
 </div>
 
 
+# 🧩 LeetCode Achievements
+
+<div align="center">
+
+<!-- Auto-updating LeetCode Stats Card -->
+<img 
+  src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&ext=heatmap&border=0&radius=12" 
+  width="70%" 
+/>
+
+</div>
+
+
 ---
 
 #  Socials
