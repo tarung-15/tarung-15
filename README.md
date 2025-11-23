@@ -7,7 +7,7 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
 
 #  Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,js,react,nodejs,express,django,mysql,mongodb,git,github,vercel,render" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,react,nodejs,express,django,mysql,mongodb,git,github,vercel,render" />
 </div>
 # Tech Stack
 <div align="center">
