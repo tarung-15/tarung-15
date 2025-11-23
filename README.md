@@ -17,58 +17,27 @@
 
 ---
 
-#  LeetCode Badges
+# 🧩 LeetCode Badges
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&font=JetBrains%20Mono" width="60%"/>
-
-</div>
-
-# 🧩 LeetCode Achievements
-
-<div align="center">
-
-<!-- Compact Main Showcase -->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=tarun__15&theme=dark&border=true" width="60%" />
-
-<br/><br/>
-
-<!-- Individual Badges (Professional grid layout) -->
 <table>
   <tr>
-    <td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="80"/></td>
-    <td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="80"/></td>
-    <td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-september.gif" width="80"/></td>
-    <td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-august.gif" width="80"/></td>
-    <td align="center"><img src="https://assets.leetcode.com/static_assets/marketing/2024-july.gif" width="80"/></td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90"/>
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="90"/>
+    </td>
   </tr>
   <tr>
-    <td align="center">100 Days Badge</td>
     <td align="center">50 Days Badge</td>
-    <td align="center">Sept Badge</td>
-    <td align="center">Aug Badge</td>
-    <td align="center">July Badge</td>
+    <td align="center">100 Days Badge</td>
   </tr>
 </table>
 
 </div>
 
-
-# 🧩 LeetCode Achievements
-
-<div align="center">
-
-<!-- Auto-updating LeetCode Stats Card -->
-<img 
-  src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&ext=heatmap&border=0&radius=12" 
-  width="70%" 
-/>
-
-</div>
-
-
----
 
 #  Socials
 
