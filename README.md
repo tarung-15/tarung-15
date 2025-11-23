@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/shreyamp01/shreyamp01/main/github-header-image.png" width="100%" />
 </p> -->
 
-# 👨‍💻 Hey!, I'm Tarun G
+#  Hey!, I'm Tarun G
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-# 🌐 Socials
+#  Socials
 
 <p align="left">
   <a href="www.linkedin.com/in/tarung1510">
@@ -43,27 +43,12 @@
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,js,react,nodejs,express,django,mysql,mongodb,git,github,bootstrap," />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tarungupta18&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarungupta18&theme=tokyonight" height="160px"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarungupta18&layout=compact&theme=tokyonight" height="160px"/>
 
 </div>
 
