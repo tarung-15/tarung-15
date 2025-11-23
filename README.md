@@ -39,6 +39,14 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
 <br/><br/> -->
 
 <!--  Static Badge Section (Add new badges here manually in future) -->
+# 🧩 LeetCode Progress
+
+<div align="center">
+
+<!-- Auto-updating stats card -->
+<img src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&ext=heatmap&border=0&radius=10&font=JetBrains%20Mono" width="70%" />
+
+<!-- Static badge area (add more badges manually when you earn them) -->
 <table>
   <tr>
     <td align="center">
@@ -53,6 +61,9 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
     <td align="center">100 Days Badge</td>
   </tr>
 </table>
+
+</div>
+
 
 
 <!-- <td align="center">
