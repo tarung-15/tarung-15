@@ -1,7 +1,9 @@
 
 #  Hey!, I'm Tarun G
+A Full-Stack Developer focused on backend engineering and scalable system architecture, passionate about solving real-world problems through impactful software.  
+I build reliable, efficient, and production-ready applications using clean code principles and strong engineering practices.  
+Adaptable and quick to learn, I’m also expanding into AI/ML technologies to stay aligned with the future of intelligent systems.
 
----
 
 ##  About Me
 
