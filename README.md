@@ -26,11 +26,11 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
 </p>
   
 </div>
-<div aligb="center">
+<div align="center">
 <table>
   <tr>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="90"/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90"/>
     </td>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="90"/>
