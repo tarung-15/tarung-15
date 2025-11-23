@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=&theme=dark" width="80%"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=tarun__15&theme=dark" width="80%"/>
 
 </div>
 
