@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shreya_MP&theme=dark" width="80%"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=&theme=dark" width="80%"/>
 
 </div>
 
@@ -30,13 +30,13 @@
 # 🌐 Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/tarungupta18">
+  <a href="www.linkedin.com/in/tarung1510">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tkg21430@gmail.com">
+  <a href="mailto:tarungali1526@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/tarungupta_11">
+  <a href="https://instagram.com/tarun_g_._15">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -47,9 +47,8 @@
 
 <div align="center">
 
-<!-- Icons style same as ANSH V -->
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,figma,aws,bootstrap,tailwind,postman,nginx,cpp,python,java" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,js,react,nodejs,express,django,mysql,mongodb,git,github,bootstrap," />
 
 </div>
 
