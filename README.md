@@ -17,10 +17,19 @@
 
 ---
 
-# 🧩 LeetCode Badges
+# 🧩 LeetCode Progress
 
 <div align="center">
 
+<!-- 📌 Auto-updating LeetCode Stats Card -->
+<img 
+  src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&ext=heatmap&border=0&radius=10&font=JetBrains%20Mono" 
+  width="70%" 
+/>
+
+<br/><br/>
+
+<!-- 📌 Static Badge Section (Add new badges here manually in future) -->
 <table>
   <tr>
     <td align="center">
@@ -37,7 +46,6 @@
 </table>
 
 </div>
-
 
 #  Socials
 
