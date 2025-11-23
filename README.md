@@ -24,79 +24,23 @@ Adaptable and quick to learn, I’m also expanding into AI/ML technologies to st
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a> -->
 </p>
+  
 </div>
-
-### 🧩 LeetCode Badges
-
-<div align="center">
-
-<div style="
-  border: 1px solid #3d3d3d;
-  border-radius: 12px;
-  padding: 20px;
-  width: 80%;
-">
-
-<h3 style="margin-top: 0;">Tarun__15 LeetCode Badges</h3>
-
-<hr/>
-
-<!-- Auto-updating stats card -->
-<img 
-  src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&ext=heatmap&radius=10" 
-  width="70%" 
-/>
-
-<br/><br/>
-
-<!-- Badges -->
-<h4>Annual Badges</h4>
+<div aligb="center">
 <table>
   <tr>
-    <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="80"/>
-      <br/>100 Days Badge
-    </td>
-    <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="80"/>
-      <br/>50 Days Badge
-    </td>
-  </tr>
-</table>
-
-</div>
-
-</div>
-
-
-
-### 🧩 LeetCode Badges
-
-<div align="center">
-
-<!-- Auto-updating LeetCode Stats Card -->
-<img 
-  src="https://leetcard.jacoblin.cool/tarun__15?theme=dark&ext=heatmap&radius=10" 
-  width="70%" 
-/>
-
-<br/><br/>
-
-## Annual Badges
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="90"/>
-      <br/>100 Days Badge
-    </td>
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="90"/>
-      <br/>50 Days Badge
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="90"/>
     </td>
   </tr>
+  <tr>
+    <td align="center">50 Days Badge</td>
+    <td align="center">100 Days Badge</td>
+  </tr>
 </table>
-
 </div>
 
 <p align="center">✨ Thanks for visiting! ✨</p>
