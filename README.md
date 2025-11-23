@@ -9,9 +9,9 @@
 
 ## 🐥 About Me
 
-- 🎓 I'm currently pursuing **Computer Science Engineering(Data Science)**
+- 🎓 I'm currently pursuing  my bachelors in **Computer Science Engineering(Data Science)**
 - 🤝 I’m looking to collaborate on **Web Development & MERN Projects**
-- 🚀 Currently learning **Backend Engineering,Cloud**
+- 🚀 Currently learning **Backend Engineering,Cloud and other technologies**
 - 💬 Ask me about **DSA, Web Dev, JavaScript, Node.js**
 - 🌱 I enjoy building **full-stack scalable applications**
 
